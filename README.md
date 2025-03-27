@@ -5,6 +5,12 @@ Good train for this dataset:
 https://www.kaggle.com/competitions/titanic
 
 # Explanations
+
+- 2-2-TF-DF.py (Titanic competition w/ TensorFlow Decision Forests): https://www.kaggle.com/code/gusthema/titanic-competition-w-tensorflow-decision-forests/comments
+
+## Note:
+On March 2025, Tensorflow package is not compatible with python 3.13 (https://github.com/tensorflow/tensorflow/issues/78774#issuecomment-2498148533). So this project is written with Google Colab
+
 - 1-tutorial.py:
     https://www.kaggle.com/code/alexisbcook/titanic-tutorial/notebook
 
