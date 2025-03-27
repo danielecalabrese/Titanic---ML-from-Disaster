@@ -5,7 +5,7 @@ Good train for this dataset:
 https://www.kaggle.com/competitions/titanic
 
 # Explanations
-- **1- tutorial.py**:
+- 1-tutorial.py:
     https://www.kaggle.com/code/alexisbcook/titanic-tutorial/notebook
 
     ### Understanding the Data
