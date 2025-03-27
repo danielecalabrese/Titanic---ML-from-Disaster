@@ -59,6 +59,6 @@ plt.show()
 
 # Wrangle data
 
-
+# Model Predict and solve
 
 

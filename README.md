@@ -6,6 +6,11 @@ https://www.kaggle.com/competitions/titanic
 
 # Explanations
 
+### 4-... .py: [Linear model and neural net from scratch](https://www.kaggle.com/code/jhoward/linear-model-and-neural-net-from-scratch)
+TBD
+
+
+
 ## 3-TitanicDataScienceSolution.py: [Titanic Data Science Solutions](https://www.kaggle.com/code/startupsci/titanic-data-science-solutions/notebook)
 
 ### Note:
@@ -17,6 +22,8 @@ We can quickly analyze our feature correlations by pivoting features against eac
 We can see that the suvival field is correlated with Pclass, Sex, SibSp (sibling or spouse) and Parch (parents or child).
 ### Analyze by visualizing data
 Let us start by understanding correlations between numerical features and our solution goal (Survived).
+### Model Predicting and solve
+TBD
 
 
 ## 2-TF-DF.py: [Titanic competition w/ TensorFlow Decision Forests](https://www.kaggle.com/code/gusthema/titanic-competition-w-tensorflow-decision-forests/comments)
@@ -24,7 +31,7 @@ Let us start by understanding correlations between numerical features and our so
 ### Note:
 On March 2025, Tensorflow package is not compatible with python 3.13 (https://github.com/tensorflow/tensorflow/issues/78774#issuecomment-2498148533). So this project is written with Google Colab.
 
-## 1-tutorial.py: [General Tutorial](https://www.kaggle.com/code/alexisbcook/titanic-tutorial/notebook)
+## 1-Tutorial.py: [General Tutorial](https://www.kaggle.com/code/alexisbcook/titanic-tutorial/notebook)
 
 1- Understanding the Data: we took into consideration the file format (csv) associated with the dataset.
 
