@@ -52,7 +52,7 @@ gClass.map(plt.hist, 'Age', alpha=.5, bins=20)
 gClass.add_legend()
 plt.show()
 
-gEmbarked = sns.FacetGrid(train_df, row='Embarked', size=2.2, aspect=1.6)
+gEmbarked = sns.FacetGrid(train_df, row='Embarked', height=2.2, aspect=1.6)
 gEmbarked.map(sns.pointplot, 'Pclass', 'Survived', 'Sex', palette='deep')
 gEmbarked.add_legend()
 plt.show()
