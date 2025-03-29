@@ -2,7 +2,7 @@ Just few info for this repository.
 
 Date: March 2025
 
-Level: very begineer to machine learning.
+Level: very begineer.
 
 Python version: 3.12.9 ([link to official site](https://www.python.org/downloads/release/python-3129/))
 
@@ -12,6 +12,6 @@ _numpy_, _pandas_, _scikit-learn_, _bs4_, _seaborn_, _matplotlib_ and _spacy_. I
 
 For further info, please refer to the amazing wiki :)
 
-So, are you ready to ship?
+So, are you ready to sail?
 
 ![inauguration](inauguration.png)
