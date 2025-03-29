@@ -1,8 +1,8 @@
 Just few info for this repository.
 
-Date: March 2025
+Script written in March/April 2025
 
-Level: very begineer.
+Level: begineer
 
 Python version: 3.12.9 ([link to official site](https://www.python.org/downloads/release/python-3129/))
 
