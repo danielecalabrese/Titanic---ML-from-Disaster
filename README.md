@@ -1,4 +1,13 @@
-Let's write some simple scripts just to train our skill in ML.
+
+<p>Kif Kroker: "Captain, may I have a word with you?"<br>
+Captain Zapp Brannigan:"No. Kif Kroker". <br>
+Kif Kroker: "It's an emergency, sir". <br>
+Captain Zapp Brannigan: "Come back when it's a catastrophe". <br>
+<em>[a huge rumbling is heard]</em> <br>
+Captain Zapp Brannigan: "Oh, very well".</p>
+
+
+Ok, the nerd reference has been done, now let's write some simple scripts just to train our skill in ML :)
 
 # Reference
 Script in this folder use the following dataset:
@@ -6,7 +15,7 @@ https://www.kaggle.com/competitions/titanic
 
 # Explanations
 
-### 4-... .py: [Linear model and neural net from scratch](https://www.kaggle.com/code/jhoward/linear-model-and-neural-net-from-scratch)
+### 4-NLP-tutorial.py: [Knowledge Graph & NLP Tutorial](https://www.kaggle.com/code/pavansanagapati/knowledge-graph-nlp-tutorial-bert-spacy-nltk)
 TBD
 
 
